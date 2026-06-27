@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # myip-win
+=======
+# myip-project
+>>>>>>> 3da93dfc3766f32937ec72be204e3a720ca775f9
 
 A lightweight, open‑source CLI tool for Windows that shows your **public IP information** with a single command:
 
